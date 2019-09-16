@@ -30,5 +30,5 @@ social:
   - title: envelope
     url: mailto:frances.corner@gmail.com
   - title: email
-    fa-icon: fa-envelope
+    icon: fa-envelope
     url: mailto:frances.corner@gmail.com
