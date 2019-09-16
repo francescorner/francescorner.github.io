@@ -5,12 +5,12 @@ category: Services
 title: Garden Maintenance
 description: |
 ---
-Lawn maintenance including mowing, scarifying, feeding and edging.
-Weeding
-Leaf collecting
-Watering
-General plant care and maintenance
-Recommendation of plants for appropriate areas of the garden
-Supply and planting of plants
-Pruning and training of small trees and shrubs
-Hedge and bush trimming
+- Lawn maintenance including mowing, scarifying, feeding and edging.
+- Weeding
+- Leaf collecting
+- Watering
+- General plant care and maintenance
+- Recommendation of plants for appropriate areas of the garden
+- Supply and planting of plants
+- Pruning and training of small trees and shrubs
+- Hedge and bush trimming
