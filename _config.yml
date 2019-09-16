@@ -27,8 +27,5 @@ permalink: pretty
 social:
   - title: instagram
     url: https://www.instagram.com/fcorner
-  - title: envelope
-    url: mailto:frances.corner@gmail.com
   - title: email
-    icon: fa-envelope
     url: mailto:frances.corner@gmail.com
