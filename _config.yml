@@ -29,3 +29,6 @@ social:
     url: https://www.instagram.com/fcorner
   - title: envelope
     url: mailto:frances.corner@gmail.com
+  - title: email
+    fa-icon: envelope
+    url: mailto:frances.corner@gmail.com
