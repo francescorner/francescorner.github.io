@@ -5,7 +5,7 @@ category: Services
 title: Garden Maintenance
 description: |
 ---
-- Lawn maintenance including mowing, scarifying, feeding and edging.
+- Lawn maintenance including mowing, scarifying, feeding and edging
 - Weeding
 - Leaf collecting
 - Watering
